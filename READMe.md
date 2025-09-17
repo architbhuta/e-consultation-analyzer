@@ -6,7 +6,7 @@ An end-to-end web application designed to analyze, summarize, and derive actiona
 
 ### ✨ Live Demo & Preview
 
-**[➡️ Click here for the Live Interactive Demo]([https://e-consultation-analyzer-8yxqu8ddokfyjm9mqebwxq.streamlit.app/])** *(Deploy on Streamlit Community Cloud and replace this link)*
+**[➡️ Click here for the Live Interactive Demo](https://e-consultation-analyzer-8yxqu8ddokfyjm9mqebwxq.streamlit.app/)** *(Deploy on Streamlit Community Cloud and replace this link)*
 
 ![App Demo GIF]([SCREENRECORDING-OF-YOUR-APP.GIF])
 *(**Important:** Record a short GIF of you using the app and place it here. This is the most effective part of the README.)*
