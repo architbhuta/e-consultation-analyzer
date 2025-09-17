@@ -44,8 +44,8 @@ Government ministries and corporate bodies receive thousands of public comments 
 
 This flowchart illustrates the end-to-end data pipeline, from raw input to the final analysis dashboard.
 
-*You can embed the flowchart image you created in Figma here.*
-`![Flowchart](link_to_your_flowchart_image.png)`
+
+`![Flowchart Architecture](flowchart_1.png)`
 
 ---
 
