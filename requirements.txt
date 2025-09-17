@@ -1,0 +1,11 @@
+streamlit
+pandas
+torch
+transformers
+vaderSentiment
+playwright
+wordcloud
+matplotlib
+scikit-learn
+streamlit-option-menu
+numpy
